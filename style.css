@@ -1,9 +1,14 @@
 .main-heading {
   color:darkred;
   margin-top: 30px;
+
 }
 header{
   text-align: center;
-  background-color: blanchedalmond;
-  
+  background-color:silver;
+  color: brown;
+}
+section{
+  padding-bottom: 20px;
+  color: green;
 }
